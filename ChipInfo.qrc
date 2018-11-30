@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/LOGO.png</file>
+        <file>resources/snimki/215-0674034.JPG</file>
+        <file>resources/snimki/215-0752007.JPG</file>
+        <file>resources/snimki/216-0674022.JPG</file>
+        <file>resources/snimki/216-0674026.JPG</file>
+        <file>resources/snimki/216-0752001.JPG</file>
+        <file>resources/snimki/216-0774009.JPG</file>
+        <file>resources/snimki/ATI X700.bmp</file>
+        <file>resources/fit.png</file>
+        <file>resources/original.png</file>
+        <file>resources/zoomin.png</file>
+        <file>resources/zoomout.png</file>
+    </qresource>
+</RCC>
